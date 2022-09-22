@@ -42,7 +42,7 @@
       }
     }
 
-    let container = new Container("productos.txt");
+    let container = new Container("productos.txt"); // Archivo 
 
     container.deleteAll();
 
